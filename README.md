@@ -15,7 +15,8 @@ I am lucky to be a usual guest speaker in several committees and associations su
 
 Languages and Tools
 
-HTML5 CSS3 JavaScript React Sass Node.js
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/19e23ac3-6e8f-4c81-8575-20d7d19b80aa)
+ CSS3 JavaScript React Sass Node.js
 Rust Shell WebAssembly Git VS Code Sketch
 
 Buy Me A Coffee
