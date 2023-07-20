@@ -1,25 +1,44 @@
-# NCR
-Hi 
-🚀 As a dynamic and forward-thinking professional, I actively drive innovation across multidisciplinary domains 🌟
+![Imagen1](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/70b35319-4dce-4ea2-aafc-4f14196f9875)
 
-Co-founder and Consultancy Director at Eurotech, a full digital company whose purpose is to drive automation to T&L Sector. Lots of work to do!
-Civil Engineer, Transports and Logistics specialization. International expertise and multidisciplinary leadership skills, proactivity and excellence in work.
+Combining my managerial acumen with
+technical expertise, I drive transformative
+initiatives at the forefront of technology.
 
-🔥 Unleashing the Power of Technology & Trends 🔍
+Led by passion for new technologies, I was pioneer for the application of Blockchain Technology beyond finances, with wide recognition received that allowed me to be part of the most ambitious, such as SIMPLE, EBSI or SORTLOT.
 
-Led by passion for new technologies, I was pioneer for the application of Blockchain Technology in Ports and Logistics, with wide recognition received that allowed me to be part of the most ambitious projects revolving around Blockchain and Logistics, such as SIMPLE, EBSI or SORTLOT.
+I also share my
+knowledge and insights as a professor,
+empowering future generations with the
+skills and mindset needed to thrive in the
+digital era.
 
-🌍 Global Perspective | Collaboration🤝
-
-I am lucky to be a usual guest speaker in several committees and associations such as AET, ALASTRIA, LOGISTOP, CEOE, AMETIC and UNE. I also work as a teacher in educative forums: IDEAS 2.0 program, CEOE Nanograde of Transport and various subjects at the UC.
-
-Languages and Tools
-
-![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/19e23ac3-6e8f-4c81-8575-20d7d19b80aa)
- CSS3 JavaScript React Sass Node.js
-Rust Shell WebAssembly Git VS Code Sketch
-
-Buy Me A Coffee
+International expertise and multidisciplinary leadership skills, proactivity and excellence in work.
 
 
-💖 Other
+Skills:
+
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/ec62713a-869a-4365-8ada-f227046fe59e)
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/61d7da09-fb28-4ffb-920a-68f02c061ba4)
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/8284a02a-e5e2-490e-b3d4-c08706f79243)
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/149f1707-86cc-4e81-a7f5-e7547b410568)
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/b318d709-4da8-42e3-ac5c-afe9f80f53d6)
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/5c243759-31cb-4a6e-ab1e-5057dc1d86ca)
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/e0ca2ce5-0e25-48da-b935-74f666611d6c)
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/e913a4a7-1ce4-454a-86a1-88c1974fb4e0)
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/65a7b1a9-3a3b-4efb-9480-35d1a69bf666)
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/ce09ae8a-51bc-42f0-821b-69d151b9acd3)
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/5acc6d96-42ce-4b39-9f83-b986790426eb)
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/291f8acb-dbb5-4de9-a8cc-7d76e218de8e)
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/42573096-40cd-41b2-9767-b2a6a6ad21a4)
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/07f4f70c-c545-44bd-88bd-756ded94d14a)
+![image](https://github.com/Ncastanedo/Ncastanedo/assets/117448485/8d63ef95-cb29-4f26-b195-0c6c01716742)
+
+
+Consultacy Director at Eurotech | Board Member at AET | Blockchain Engineer at BeDisruptive
+
+
+
+
+
+
+
